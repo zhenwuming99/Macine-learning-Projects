@@ -39,7 +39,7 @@ Data Dictionary:
 
 * Credit_Limit: Credit Limit on the Credit Card
 
-* Total_Revolving_Bal: Total Revolving Balance on the Credit Card
+* Total_Revolving_Bal: Total Revolving Balance on the Credit Card(a revolving balance is the portion of credit card spending that goes unpaid at the end of a billing cycle. The amount can vary, going up or down depending on the amount borrowed and the amount repaid. When the balance is paid off, the customer is no longer revolving the debt.)
 
 * Avg_Open_To_Buy: Open to Buy Credit Line (Average of last 12 months)
 
