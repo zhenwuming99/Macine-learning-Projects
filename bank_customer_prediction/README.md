@@ -51,7 +51,7 @@ Data Dictionary:
 
 * Total_Ct_Chng_Q4_Q1: Change in Transaction Count (Q4 over Q1)
 
-* Avg_Utilization_Ratio: Average Card Utilization Ratio
+* Avg_Utilization_Ratio: Average Card Utilization Ratio( it's how much you currently owe divided by your credit limit. It is generally expressed as a percent.)
 
 The data set in particular has a lot of columns, it contains how much the card is being
 
